@@ -1,0 +1,5 @@
+{
+	"ip":"BADLANDS_kgnetwork.aternos.me",
+	"port": "54968",
+	"name": "KAVYA"
+}
